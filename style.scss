@@ -1,0 +1,29 @@
+/**
+ *
+ * Main file
+ *
+ * ---------------------
+ * # Settings
+ * # Tools
+ * # Generic
+ * # Base
+ * # Objects
+ * # Components
+ * # Trumps
+ * ---------------------
+ */
+
+/* --- Settings ------- */
+@import 'settings/settings';
+/* --- Tools ---------- */
+@import 'tools/tools';
+/* --- Generic -------- */
+@import 'generic/generic';
+/* --- Base ----------- */
+@import 'base/base';
+/* --- Objects -------- */
+@import 'objects/objects';
+/* --- Components ----- */
+@import 'components/components';
+/* --- Trumps --------- */
+@import 'trumps/trumps';
